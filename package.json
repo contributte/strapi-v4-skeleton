@@ -10,7 +10,7 @@
     "strapi": "strapi"
   },
   "dependencies": {
-    "@strapi/plugin-i18n": "^4.9.0",
+    "@strapi/plugin-i18n": "^4.25.23",
     "@strapi/plugin-sentry": "^4.9.0",
     "@strapi/plugin-users-permissions": "^4.9.0",
     "@strapi/provider-email-nodemailer": "^4.9.0",
@@ -18,7 +18,7 @@
     "@strapi/strapi": "^4.9.0",
     "better-sqlite3": "^8.4.0",
     "mysql": "^2.18.1",
-    "pg": "^8.5.1",
+    "pg": "^8.18.0",
     "pg-connection-string": "^2.6.1"
   },
   "overrides": {
